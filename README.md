@@ -6,7 +6,7 @@ The purpose of this project is to provide a clear example of how front-end desig
 
 ### How to view
 1. Download or clone the repository:
-  git clone https://github.com/Jasminaryee/[repository.git
+  git clone https://github.com/Jasminaryee/Responsive-Website-Example.git
 
 2. Open index.html in any modern web browser.
 
