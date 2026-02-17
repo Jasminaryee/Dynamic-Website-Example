@@ -11,3 +11,6 @@ The purpose of this project is to provide a clear example of how front-end desig
 2. Open index.html in any modern web browser.
 
 3. Resize the browser window or view on a mobile device to observe the layout changes.
+
+### Author
+Jasmin Aryee
